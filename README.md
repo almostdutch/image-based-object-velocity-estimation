@@ -15,11 +15,11 @@ FFT spectra:<br/>
   <img src="video/UFO_spectra.png" width="520" height="420"/>
 </p>
 
-UFO
-Given:
- V_x = 3.00 [pixels / frame] V_y = 2.00 [pixels / frame]
-Calculated:
- V_x = 3.00 [pixels / frame] V_y = 2.00 [pixels / frame]
+UFO<br/>
+Given:<br/>
+ V_x = 3.00 [pixels / frame] V_y = 2.00 [pixels / frame]<br/>
+Calculated:<br/>
+ V_x = 3.00 [pixels / frame] V_y = 2.00 [pixels / frame]<br/>
 <br/>
 <br/>
 <br/>
@@ -43,6 +43,6 @@ FFT spectra:<br/>
   <img src="video/ISS_spectra.png" width="520" height="420"/>
 </p>
 
-ISS
-Calculated:
- V_x = 2.30 [pixels / frame] V_y = 3.24 [pixels / frame]
+ISS<br/>
+Calculated:<br/>
+ V_x = 2.30 [pixels / frame] V_y = 3.24 [pixels / frame]<br/>
