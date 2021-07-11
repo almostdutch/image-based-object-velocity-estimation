@@ -1,4 +1,4 @@
-**demo_velocity_estimation_1.py <br/>
+**demo_velocity_estimation_1.py** <br/>
 
 This demo shows how to estimate the velocity of a moving object (x and y components, pixels / frame) <br/>
     in the frequency domain based on the uniformly acquired frames
@@ -20,11 +20,10 @@ Given:
  V_x = 3.00 [pixels / frame] V_y = 2.00 [pixels / frame]
 Calculated:
  V_x = 3.00 [pixels / frame] V_y = 2.00 [pixels / frame]
- 
 <br/>
 <br/>
 <br/>
-**demo_velocity_estimation_2.py <br/>
+**demo_velocity_estimation_2.py** <br/>
 
 This demo shows how to estimate the velocity of a moving object (x and y components, pixels / frame) <br/>
     in the frequency domain based on the uniformly acquired frames <br/>
