@@ -35,7 +35,7 @@ Video copyright: Matt Skuta (https://www.youtube.com/watch?v=bl9KHmoRGi0) <br/>
     
 A sequence of uniform frames (12 fps):<br/>
 <p align="center">
-  <img src="video/ISS_movie.gif" width="520" height="420"/>
+  <img src="video/ISS_movie.gif" width="420" height="420"/>
 </p>
 
 FFT spectra:<br/>
