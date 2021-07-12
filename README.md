@@ -12,7 +12,7 @@ A sequence of uniform frames (20 fps):<br/>
 
 FFT spectra:<br/>
 <p align="center">
-  <img src="video/UFO_spectra.png" width="520" height="420"/>
+  <img src="video/UFO_spectra.png" width="520" height="320"/>
 </p>
 
 UFO<br/>
@@ -40,7 +40,7 @@ A sequence of uniform frames (12 fps):<br/>
 
 FFT spectra:<br/>
 <p align="center">
-  <img src="video/ISS_spectra.png" width="520" height="420"/>
+  <img src="video/ISS_spectra.png" width="520" height="320"/>
 </p>
 
 ISS<br/>
